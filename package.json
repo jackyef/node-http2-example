@@ -1,0 +1,7 @@
+{
+  "name": "node-http2-example",
+  "dependencies": {
+    "fetch-h2": "^2.2.1",
+    "node-fetch": "^2.6.0"
+  }
+}
