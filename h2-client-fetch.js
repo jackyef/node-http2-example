@@ -15,7 +15,7 @@ array.forEach(() => {
       .then(res => {
         return res.text();
       })
-      .then(res => console.log(res))
+      .then(res => res)
       .catch(err => {
         console.error(err);
       })
